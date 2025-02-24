@@ -8,3 +8,16 @@ p {
 h3 {
     color: green;
 }
+
+#seconddiv {
+    margin: 100px 50px;
+    display: block;
+    justify-content: center;
+    height: 10px;
+}
+
+.chobi {
+    height: 100px;
+    margin-bottom: 100px;
+    margin: 0px 20px 0px 20px;
+}
